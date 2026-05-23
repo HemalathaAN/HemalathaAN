@@ -11,10 +11,7 @@
 - 🔍 Passionate about turning raw data into actionable insights
 - 📊 Skilled in EDA, Data Visualization & Dashboard Development
 - 🤖 Research published on Hate Speech Detection using Deep Learning
-- 📍 Bengaluru, India
 - 📩 Open to full-time Data Analyst roles
-
----
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +20,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -39,11 +35,17 @@
 - Implemented NLP pipeline: tokenization, lemmatization, TF-IDF
 - Based on published research paper — JSSATE Bengaluru, 2025
 
-### 📊 Real-Time Sentiment & Performance Dashboard
-> Power BI · Python · Excel
-- Designed interactive dashboards to monitor KPIs and sentiment trends
-- Used slicers, filters and drill-through for deep data analysis
-- Delivered actionable insights for business decision-making
+### 🛒 [Sales Performance Analysis](https://github.com/HemalathaAN/sales-performance-analysis)
+> Python | SQL | Pandas | Matplotlib | Seaborn
+- Analysed Global Superstore Sales dataset to identify revenue trends
+- Wrote SQL queries to extract business insights and top customers
+- Delivered actionable business recommendations based on data findings
+
+### 👥 [HR Analytics — Employee Attrition Analysis](https://github.com/HemalathaAN/hr-analytics)
+> Python | Pandas | Matplotlib | Seaborn
+- Analysed IBM HR dataset to identify key attrition drivers
+- Performed EDA on salary, overtime, job satisfaction and department data
+- Delivered retention recommendations based on data findings
 
 ---
 
@@ -59,7 +61,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemalatha-a-n/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemalathaAN)
-
 
 ---
 
